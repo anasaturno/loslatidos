@@ -1,0 +1,3 @@
+[submodule "themes/cactus_lat"]
+	path = themes/cactus_lat
+	url = https://github.com/probberechts/hexo-theme-cactus
