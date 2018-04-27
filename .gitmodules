@@ -1,0 +1,3 @@
+[submodule "themes/cactus-lat"]
+	path = themes/cactus-lat
+	url = git@github.com:anasaturno/cactus-lat-theme.git
