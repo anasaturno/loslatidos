@@ -1,0 +1,38 @@
+---
+title: 8 de marzo
+tags:
+  - Personal
+  - Política
+date: 2010-03-08 22:23:17
+---
+
+Cada 8 de marzo suelo escribir una entrada en Los Latidos, es una de esas cuatro fechas al año que siento la necesidad de conmemorar. Y siempre lo he hecho hablando de las mujeres que viven en otros países, donde la igualdad es una quimera y los abusos son terribles y diarios.
+
+Hoy sigo pensando que lo primordial es recordar que, en comparación con la mayoría de la población mundial, las españolas somos unas privilegiadas en lo que respecta a la igualdad de sexos. Sin embargo, el pequeño detalle de haber pasado un embarazo y haber parido hace ocho meses me ha permitido conocer parte de esa realidad oculta en España, esas cosas de las que no se habla en ningún sitio porque al fin y al cabo, sólo afectan a las mujeres. Y, me van a perdonar, pero de eso es de lo que toca hablar hoy y ya los aviso de que esta entrada va a ser larga, con referencias personales y todo lo que haga falta.
+
+Cuando le comentaba a la gente que estaba embarazada, una de las cosas que solían preguntarme era que si no me daba miedo el parto. Yo les decía que ni siquiera me lo planteaba, y era cierto. Desde el principio, pensé en el parto como una etapa más del embarazo. No se me pasaba por la cabeza que tuviera que tener motivos para asustarme por eso, simplemente cuando llegara el momento iría al hospital lo más tranquila posible y estaba convencida de que todo iría bien. En el tercer mes de embarazo empecé a buscar un sitio donde dieran clase de pilates para embarazadas (las normales ya no las podía hacer), más que nada para que mi espalda pudiera seguir sobreviviendo a las ocho horas y media que paso cada día sentada en la oficina. Así llegué a [Blossom](http://blossomcentromaternal.com/home.htm), un centro maternal que es de los pocos que ofrecía esas clases en Las Palmas.
+
+Empecé a escuchar retazos de conversaciones durante los minutos previos a cada clase y muchas veces pensaba que estaba oyendo hablar en chino. Dado que me considero una persona relativamente informada del mundo que me rodea, no entendía por qué la mayor parte de las frases que escuchaba contenían al menos una o dos palabras que no había oído en mi vida, o que las había oído, pero las consideraba como algo muy ajeno. A lo largo de los dos últimos trimestres de mi embarazo, acabaron por parecerme como el abecedario, de tan familiares que me eran ya.
+
+Decidí hacer allí también la preparación al parto, y durante esas clases terminé por comprender que un parto es todo un mundo (un embarazo también) y que la mayoría de las mujeres no tienen a su alcance ni el 10% de la información con la que acabé yo. Oí hablar de todas las posibles intervenciones con las que me iba a encontrar, de sus ventajas y sus riesgos, y de todas las decisiones que yo podría (o debería poder) tomar. También de las complicaciones que podían presentarse y de qué podía esperar en cada caso. Todo gracias a Laura Moya, la matrona que lleva el centro.
+
+Fueron unos días duros, pero a la vez muy emocionantes. Me sentía como un niño que está aprendiendo a leer. Nuestro caso era un poco especial, porque Diego estaba de culo y no conseguimos que se diera la vuelta a pesar de intentarlo por todos los medios, así que la tensión durante las últimas semanas fue considerable, con la palabra cesárea amenazándonos desde casi todos los frentes.
+
+[![](http://elpartoesnuestro.es/images/qnos.jpg)](http://elpartoesnuestro.es/images/qnos.jpg)Intentando leer más sobre los partos de nalgas me enteré de la existencia de la asociación [El Parto es Nuestro](http://elpartoesnuestro.es/). Hoy sigo suscrita a su lista de correo y me he hecho socia. Leo cada día historias espeluznantes, pero también otras felices, como fue la mía. La labor que hacen, peleando para que las mujeres tengan partos con la atención y el respeto adecuados, no se paga con dinero.
+
+Desde aquellos días sigo haciéndome la misma pregunta: ¿por qué de esto nunca habla nadie? Es un tema tabú, algo que no se nombra y de lo que sólo te enteras cuando pasas por ello. A veces ni siquiera entonces. Sí, podría ser por un cierto sentido del pudor, pero cada día estoy más convencida de que es sólo un muestra más de que en este país la sexualidad de las mujeres, con todo lo que conlleva, no importa un pimiento. En muchos de los casos, porque la información está en manos de hombres y son ellos los que deciden qué es lo importante y qué no, así que de esto no se habla.
+
+Hay excepciones, por supuesto. Una que considero fundamental es el magnífico reportaje [De parto](http://multimedia.elpartoesnuestro.es/videos/departo-divx.avi) que emitió Documentos TV en el año 2006\. Lo he visto dos veces, una antes de parir y otra después. Y las dos experimenté la misma rabia. Por supuesto, el cortometraje de Icíar Bollain <span style="font-weight: bold;">Por tu propio bien</span>, que se incluía en [Hay motivo](http://es.wikipedia.org/wiki/%C2%A1Hay_motivo%21), también me parece una buenísima llamada de atención.
+
+<div style="text-align: center;"><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/VXfjBm70hEA&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/VXfjBm70hEA&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="425" height="344"></embed></object></div>
+
+Poco a poco van saliendo noticias en los periódicos sobre tímidos avances en la atención al parto en España. Es especialmente esperanzador el documento del Servicio Nacional de Salud llamado [Estrategia para la atención al parto normal](http://www.msc.es/organizacion/sns/planCalidadSNS/atencionParto.htm), en el que se recogen las recomendaciones de la OMS como el objetivo a seguir de ahora en adelante. Ojalá los hospitales españoles empiecen a tomar medidas para cumplirlas.
+
+Mi parto, vaginal, de nalgas y sin epidural, fue una experiencia maravillosa. En el hospital me cuidaron, me informaron de todo lo que pasaba, me respetaron y procuraron cumplir con todo lo que yo había pedido en mi plan de parto, a pesar de que era de alto riesgo. Ojalá todas las mujeres en este país pudieran decir lo mismo.
+
+[![](http://www.nodo50.org/info/IMG/jpg/accionmujeres5.jpg)](http://www.nodo50.org/info/IMG/jpg/accionmujeres5.jpg)
+Hoy, [cuando vi](http://www.nodo50.org/info/Accion-Nosotras-parimos-nosotras.html) esta foto, entendí que en este proceso he recuperado también una parte de mi feminismo militante, que antes era más fuerte y ahora, de tanto darlo por sentado, lo había dejado también de lado.
+
+Nosotras parimos, nosotras decidimos. Aborto libre, público y gratuito, por supuesto. Partos conscientes y respetados, por supuesto. Que las mujeres recuperemos el control de nuestro cuerpo y nuestra sexualidad. Afortunadamente somos muchas las que ya nos estamos organizando para conseguirlo.
+
+<span style="font-weight: bold;">PD.</span> Hoy, siguiendo nuestra propia tradición, Jenaro me ha regalado flores. Claveles, que son mis preferidas. Sin embargo, el mejor regalo que me pudo hacer fue el esfuerzo de entenderme y respetarme cuando yo empecé a hablarle de presentar un plan de parto en el hospital y, una vez allí, tener siempre presente mis deseos y tratar de protegerlos y defenderlos lo mejor posible. Esto también va por él.
