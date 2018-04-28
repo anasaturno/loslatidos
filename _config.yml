@@ -72,15 +72,12 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-#search: true 
-search:
-  path: search.xml
-  field: post
+search: true 
 
 ## Themes: https://hexo.io/themes/
 theme: cactus-lat
 theme_config: 
-  colorscheme: light
+  colorscheme: classic
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
