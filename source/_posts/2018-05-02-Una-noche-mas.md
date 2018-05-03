@@ -11,7 +11,9 @@ En las siguientes dos semanas instalan en su ordenador y aprenden:
 2. Git
 3. Netlify
 4. Un tema para Hexo
-5. Alrededor de 24 plugins
+5. Alrededor de 24 plugins (a lo mejor son sólo 4 o 5 y estoy exagerando un poco)
+6. Markdown
+
 Antes de eso incluso prueban otros generadores, como Jekyll y Hugo, pero no consiguen poner el blog en marcha en condiciones. Es de esperar, porque Hexo es justo el que tiene menos blogs activos en inglés y más en chino, idioma que por supuesto no son capaces de entender.
 Ni que fueran programadores, que son los que usan este tipo de blogs para compartir preciosas piezas de código con el mundo. Ni que tuvieran tiempo libre para investigar y trastear. Ni que valiera la pena tanto esfuerzo para tres días que les va a durar lo de volver a escribir.
 Y, sin embargo, aquí estamos.
