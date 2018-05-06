@@ -1,7 +1,10 @@
 ---
 title: loslatidos.com
 date: 2018-05-07 00:14:07
-tags: www, personal
+tags: 
+- www
+- personal
+
 ---
 Hoy, por primera vez, escribo una entrada sabiendo que se publicará en loslatidos.com y no en loslatidos.cualquierotracosa.com. Esto, que les parecerá una bobería, para mí es muy emocionante. 
 
