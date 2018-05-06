@@ -13,3 +13,6 @@ Por eso vuelve de nuevo.
 
 Esta nueva encarnación del blog es una versión DIY. Construido en [Hexo](https://hexo.io), alojado en [GitHub](https://github.com) y generado con [Netlify](https://www.netlify.com), usando el precioso tema [Cactus](https://probberechts.github.io/hexo-theme-cactus/).
 Existe una probabilidad bastante alta de que haya usado incorrectamente cualquiera de los verbos anteriores.
+
+El título de este blog es un pequeño homenaje a una preciosa canción de [Los Hermanos Dalton](https://www.youtube.com/watch?v=62-G4JQzGEg)
+
