@@ -7,7 +7,7 @@ tags: canciones
 
 Con esta canción inauguramos la primera serie de esta nueva temporada del blog: "Canciones que no llegaron al podcast". 
 
-La elegida para empezar la serie es una canción de [Lora Logic](https://en.wikipedia.org/wiki/Lora_Logic) que se llama Brute fury. Está incluida en el recopilatorio [Fanfare in the garden](https://essentiallogic.bandcamp.com/releases), que sacó Kill Rock Stars hace unos años. 
+La elegida para empezar la serie es una canción de [Lora Logic](https://en.wikipedia.org/wiki/Lora_Logic), Brute fury. Está incluida en el recopilatorio de Essential Logic llamado [Fanfare in the garden](https://essentiallogic.bandcamp.com/releases), que sacó Kill Rock Stars hace unos años. 
 
 Cuando escuché la canción por primera vez, me quedé de inmediato completamente pillada. La puse de nuevo, una y otra vez, y me pasé varios días que casi no escuchaba otra cosa. En teoría, debería haber estado incluida en el [sexto programa](http://www.ivoox.com/latidos-podcast-6-audios-mp3_rf_20037530_1.html) del podcast, justo después de la no menos maravillosa [Getting nowhere fast](https://www.youtube.com/watch?v=UKzPEXq7t0A) de [Girls at Our Best!](https://en.wikipedia.org/wiki/Girls_at_Our_Best!). 
 
